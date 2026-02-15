@@ -1,7 +1,19 @@
-title: → Asheesh Jha
-
-name: → Asheesh Jha (if present)
+title: "Asheesh Jha"
+name: "Asheesh Jha"
 
 description: "Marketing leadership that earns its place on the P&L — building brands, scaling categories, and delivering profitable growth across GCC, South Asia, and Indonesia."
 
-url: → https://asheeshjha.github.io
+url: "https://asheeshjha.github.io"
+
+# Brighter theme (less 'sad')
+minimal_mistakes_skin: "air"
+
+# Sidebar author card
+author:
+  name: "Asheesh Jha"
+  bio: "I build brands people choose and businesses that win. From insight to execution, I’ve scaled categories and growth engines across GCC, South Asia, and Indonesia — with a high bar on craft, clarity, and commercial outcomes."
+  location: "Dubai, UAE"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:asheesh.jha22@gmail.com"
